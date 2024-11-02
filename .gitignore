@@ -10,3 +10,4 @@ models/
 *.test_predict_res
 *.json
 *.pt
+.DS_Store
