@@ -1,0 +1,12 @@
+cm.py
+*dataset*/
+runs/
+test_predict_res/
+train/
+venv/
+__pycache__/
+.vscode/
+models/
+*.test_predict_res
+*.json
+*.pt
